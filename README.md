@@ -4,6 +4,7 @@
 </div>
 
 Ice is a powerful menu bar management tool. While its primary function is hiding and showing menu bar items, it aims to cover a wide variety of additional features to make it one of the most versatile menu bar tools available.
+是一款可以定义显示或隐藏macOS菜单栏图标的应用
 
 ![Banner](https://github.com/jordanbaird/Ice/assets/90936861/e256575b-880c-49ee-90a1-b6eabd4a7868)
 
